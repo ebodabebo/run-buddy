@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RunBuddy</title>
+</head>
+<body>
+  <br />
+  <br />
+  <h1 class="title">Run Buddy</h1>  
+  <br />
+  <br>
+  <h3 class="we">What We Do</h3>
+  <br>
+  <br>
+  <h3 class="you">What You Do</h3>
+  <br>
+  <br>
+  <h3 class="meet">Meet The Trainers</h3> 
+  <br>
+  <br>
+  <h3 class="reachout">Reachout</h3> 
+  <br>
+  <br>
+  <h3 class="love">Made with love by Run Buddy.</h3>
+  <br>
+  <br>
+</body>
+</html>s
